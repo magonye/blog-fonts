@@ -6,11 +6,11 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
-googleAnalytics = ""
+googleAnalytics = "UA-96529972-1"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+    description          = "Learning how to code good applications. How to be a better software developer. Sharing my thoughts and doubts"
     # This will appear on the top left of the navigation bar
     navbarTitle          = "Learnings and thoughts"
     # Social media buttons that appear on the sidebar
@@ -25,7 +25,7 @@ googleAnalytics = ""
     # The set of favicons used are based on the write-up from this link:
     # https://github.com/audreyr/favicon-cheat-sheet
     # Please see the favicon partial template for more information
-    loadFavicon          = false
+    loadFavicon          = true
     faviconVersion       = ""
 
     # Load custom CSS or JavaScript files. This replaces the deprecated params
@@ -46,7 +46,7 @@ googleAnalytics = ""
 
     paragraph = "A place to share my learnings, thoughts and knowledge about coding, software, and being as much professional as possible."
 
-    about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+    about     = "This blog is about to learn how to be a better professional and a better developer, and share my path to achieve it. Also my choices, sometimes right, sometimes wrong."
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
