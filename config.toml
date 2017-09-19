@@ -1,11 +1,10 @@
-
 baseurl = "http://magonye.github.io/"
 languageCode = "en-us"
 title = "Learnings and thoughts"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = "learnings-and-thoughts"
 googleAnalytics = "UA-96529972-1"
 
 [params]

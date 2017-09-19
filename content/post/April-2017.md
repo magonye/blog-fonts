@@ -1,7 +1,7 @@
 +++
 featuredpath = ""
 featured = ""
-categories = []
+categories = ["reading","monthly"]
 featuredalt = ""
 linktitle = ""
 description = ""
