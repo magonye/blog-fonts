@@ -6,6 +6,7 @@ preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "learnings-and-thoughts"
 googleAnalytics = "UA-96529972-1"
+enableRobotsTXT = true
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
