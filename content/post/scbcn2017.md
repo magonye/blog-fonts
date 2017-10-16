@@ -56,7 +56,7 @@ It was a very nice talk, Viktor really masters this topic, and as I saw him on t
 
 __Pedro Moreira Santos__ is Software Craftsman at [Codurance](https://codurance.com/). You can follow him on [@pedromsantos](https://twitter.com/pedromsantos) and at [Codurance's publications](https://codurance.com/publications/author/pedro-santos/).
 
-It was an introduction to Random Testing, or Property Based Testing. You can follow him on [@pedromsantos](https://twitter.com/pedromsantos) and at [Codurance's publications](https://codurance.com/publications/author/pedro-santos/). I didn't know too much about Property based testing, but Pedro did a great speech, giving the clues about why this kind of testing is useful. I want to do some random testing soon.
+It was an introduction to Random Testing, or Property Based Testing. I didn't know too much about Property based testing, but Pedro did a great speech, giving the clues about why this kind of testing is useful. I want to do some random testing soon.
 
 ### Software Craftsmanship - 8 years
 
