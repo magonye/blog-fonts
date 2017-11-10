@@ -50,6 +50,8 @@ The talk was about how to design a fully automated continuous deployment pipelin
 
 It was a very nice talk, Viktor really masters this topic, and as I saw him on the Barcelona Java Conference 2016, he has a very good sense of humor and he is interested in teaching and advocate the adoption of DevOps culture.
 
+>**UPDATED:** [Video](https://youtu.be/dYQZKdQrNLs) from the SCBCN2017 Conference.
+
 ### Property Based Testing
 
 <img src="https://magonye.github.io/img/pedro_santos.jpg" alt="Pedro Santos" style="margin:.25em;width: 120px; float: right;"/>
@@ -58,6 +60,8 @@ __Pedro Moreira Santos__ is Software Craftsman at [Codurance](https://codurance.
 
 It was an introduction to Random Testing, or Property Based Testing. I didn't know too much about Property based testing, but Pedro did a great speech, giving the clues about why this kind of testing is useful. I want to do some random testing soon.
 
+>**UPDATED:** [Video](https://youtu.be/gqM6DTzhD0M) from the SCBCN2017 Conference.
+
 ### Software Craftsmanship - 8 years
 
 <img src="https://magonye.github.io/img/sandro-mancuso.jpg" alt="Sandro Mancuso" style="margin:.25em;width: 120px; float: right;"/>
@@ -65,6 +69,8 @@ It was an introduction to Random Testing, or Property Based Testing. I didn't kn
 __Sandro Mancuso__ is Software Craftsman and founder at [Codurance](http://codurance.com/), author of [_The Software Craftsman_](http://www.amazon.co.uk/dp/0134052501), and founder of the [London Software Craftsmanship Community](http://londonswcraft.com/). You can follow him on [@sandromancuso](https://twitter.com/sandromancuso) and at [Codurance's publications](https://codurance.com/publications/author/sandro-mancuso/).
 
 Excellent talk about Software Craftsmanship, since its beginnings on 2008, through what is Software Craftsmanship today, and finally what it should be in the future. Sandro was amazing, as always, very passionate and inspiring. It's a pitty this talks wasn't the opening keynote with all tha audience. This talk was scheduled with other talks at the same time.
+
+>**UPDATED:** [Video](https://youtu.be/m_Kc0cO-078) from the SCBCN2017 Conference.
 
 ### TDD: Mi cuaderno de recetas (TDD: My recipe book)
 

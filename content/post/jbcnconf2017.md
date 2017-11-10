@@ -75,6 +75,8 @@ Can we distinguish simple things from complex ones? The search of the simplicity
 
 You can find the same talk [here](https://www.youtube.com/watch?v=I4wuMV8N6Iw), for the DevDay Conference on 2015.
 
+>**UPDATED:** [Video](https://youtu.be/Z-8ZGgGadHU) from the JBCN2017 Conference.
+
 # Closing note
 
 <img src="https://magonye.github.io/img/sandro-mancuso.jpg" alt="Sandro Mancuso" style="margin-bottom:.25em;width: 120px; float: right;"/>
@@ -91,6 +93,8 @@ A very inspirational talk about developers careers. Developers must take the own
 Are we the owners of our career? Do we know where we want to go? If we look backwards, are we proud of what we have done?
 
 You can find the same talk [here](https://vimeo.com/167722761), for the NEWCRAFTS Conferences on 2016.
+
+>**UPDATED:** [Video](https://youtu.be/Fya3Q3AJyVM) from the JBCN2017 Conference.
 
 # Other talks and workshops
 
@@ -118,6 +122,8 @@ You can find Victor Rentea's Clean Lambdas repository [here](https://github.com/
 
 [Here](http://www.slideshare.net/VictorRentea/clean-lambdas-streams-in-java8) the slides of the workshop.
 
+>**UPDATED:** [Video](https://youtu.be/qcIiufH_u7c) from the JBCN2017 Conference.
+
 ### Test Refactoring
 
 <img src="https://magonye.github.io/img/wlodek.jpg" alt="Wlodek Krakowski" style="margin-bottom:.25em;width: 120px; float: right;"/>
@@ -133,6 +139,10 @@ Wlodek also talked about mastering your IDE, and knowing all the shortcuts and o
 I tried to follow the workshop, but Wlodek was so fast and I was so slow, that I finally gave up the workshop, and I decided to enjoy watching Wlodek working on a huge test refactoring. It was amazing the ability of Wlodek, and how he masters tdd and refactoring.
 
 You can know more about Wlodek [here](http://refactoring.pl/en/).
+
+<br><br>
+
+>**UPDATED:** [Here](https://www.youtube.com/playlist?list=PLo0fJV3LkR3whj3OOO6xV71FUerVAQDo8) you can find the full list of videos from the JBCN2017 Conference.
 
 <br><br>
 I will repeat next year with no doubt!!
