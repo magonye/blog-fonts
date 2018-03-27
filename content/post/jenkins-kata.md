@@ -8,6 +8,7 @@ title = "CI/CD Pipeline Kata"
 description = "Training how to build a pipeline for continuous delivery"
 featuredpath = ""
 featured = ""
+summary="slslslsl"
 images = ["https://magonye.github.io/img/pipeline.jpg"]
 +++
 <img src="https://magonye.github.io/img/pipeline.jpg" />
