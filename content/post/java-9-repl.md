@@ -1,21 +1,14 @@
 +++
 date = "2017-09-27T08:22:31+02:00"
 title = "JShell, the REPL console in Java 9"
-featuredpath = ""
-featured = ""
+featuredpath = "https://magonye.github.io/img/"
+featured = "java-9-repl.png"
 author = ""
 featuredalt = ""
 linktitle = ""
 categories = ["java-9","tips","docker"]
 description = "Discovering the new REPL built-in console in Java"
-images = ["https://magonye.github.io/img/java-9-repl.png"]
-
 +++
-
-[logo]: https://magonye.github.io/img/java-9-repl.png  "Java 9 REPL"
-
-![Java 9 REPL][logo]
-
 On this post, I will cover one of the new Java 9 features that attracted my attention: REPL.
 
 If you want to know what's new on Java 9, you can visit this [link](https://docs.oracle.com/javase/9/whatsnew/toc.htm). 

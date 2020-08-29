@@ -4,16 +4,11 @@ linktitle = ""
 categories = ["conferences-meetups"]
 author = ""
 featuredalt = ""
-featuredpath = ""
+featuredpath = "https://magonye.github.io/img/"
 date = "2017-08-23T12:55:48+02:00"
 description = "My experiences at this awesome conference"
-featured = ""
-images = ["https://magonye.github.io/img/Optimized-jbcnconf2017.png"]
-
+featured = "Optimized-jbcnconf2017.png"
 +++
-
-<img src="https://magonye.github.io/img/Optimized-jbcnconf2017.png" />
-
 On 19th, 20th and 21st of June, I assisted to JBCNConf2017 with two colleagues. For me was the second time, as I assisted to JBCNConf last year.
 
 In this post, I will try to explain you a little _what_ is JBCNConf, _why_ it's important to assist to conferences, and _how_ was my experience at this conference.

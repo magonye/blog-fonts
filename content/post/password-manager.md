@@ -3,19 +3,12 @@ linktitle = ""
 date = "2017-08-17T08:26:43+02:00"
 description = "Finding a solution to store passwords securely, and accessible for all the team members"
 featuredalt = ""
-featured = ""
+featured = "password-manager.jpg"
 title = "Password Manager: Why and how to store passwords securely"
 categories = ["security"]
 author = ""
-featuredpath = ""
-images = ["https://magonye.github.io/img/password-manager.jpg"]
-
+featuredpath = "https://magonye.github.io/img/"
 +++
-
-[logo]: https://magonye.github.io/img/password-manager.jpg  "Password Manager"
-
-![Password Manager][logo]
-
 # The Problem
 
 Currently I'm working on a the team that needs to handle with a lot of passwords. These passwords are critical for the company, as they are mainly Payment Provider password accounts.

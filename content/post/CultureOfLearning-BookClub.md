@@ -1,21 +1,14 @@
 +++
 description = "Reading books in a community"
 author = ""
-featuredpath = ""
+featuredpath = "https://magonye.github.io/img/"
 title = "Culture Of Learning: Book Club"
 categories = ["culture-of-learning", "team"]
 featuredalt = ""
-featured = ""
+featured = "colbookclub.jpg"
 date = "2017-10-23T08:21:27+02:00"
 linktitle = ""
-images = ["https://magonye.github.io/img/colbookclub.jpg"]
-
 +++
-
-[logo]: https://magonye.github.io/img/colbookclub.jpg  "COL: Book Club"
-
-![COL: BookClub][logo]
-
 Reading books is one of the activities everyone who is interested in software should do. It's a great way to learn new things, new points of view, new theories or practices. There are several books that every developer should read. But sometimes it's difficult to get time to read it, you  aren't motivated enough, or even if you are reading the book, the book is hard to understand.
 
 By reading a book in a Book Club, you will discover a new way of learning from a book. Let’s see how we’re organizing our book club.

@@ -1,19 +1,14 @@
 +++
 title = "Software Craftsmanship Barcelona 2017"
-featured = ""
+featured = "scbcn2017-min.png"
 author = ""
 linktitle = ""
 description = "My experiences at the conference of that awesome movement"
 categories = ["conferences-meetups"]
 featuredalt = ""
 date = "2017-10-09T08:21:33+02:00"
-featuredpath = ""
-images = ["https://magonye.github.io/img/scbcn2017-min.png"]
-
+featuredpath = "https://magonye.github.io/img/"
 +++
-
-<img src="https://magonye.github.io/img/scbcn2017-min.png" />
-
 On 7th and 8th October, it took place the Software Craftsmanship Barcelona 2017 conference. It was my first time at the conference, that was celebrating its 5th edition. I had a great experience there!!
 
 ## Software Craftsmanship

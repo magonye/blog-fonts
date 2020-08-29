@@ -65,6 +65,12 @@ enableRobotsTXT = true
 [params.postAmount]
     sidebar = 2
 
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text
 [[menu.main]]
@@ -83,6 +89,11 @@ enableRobotsTXT = true
     url = "/about"
     weight = 3
 
+[[menu.main]]
+    name = "CV"
+    url = "/cv"
+    weight = 4
+
 # Insert your username and the icon will apear on the page as long as
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
 # The social media icons will appear on the sidebar
@@ -96,7 +107,7 @@ enableRobotsTXT = true
     deviantart      = ""
     behance         = ""
     flickr          = ""
-    instagram       = ""
+    instagram       = "magonye"
     youtube         = ""
     vimeo           = ""
     vine            = ""

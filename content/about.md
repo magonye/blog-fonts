@@ -28,6 +28,8 @@ You also can follow me here:
 
 <li><a href="//twitter.com/MikeGonYe" target="_blank" title="Twitter" class="fa fa-twitter"></a></li>
 
+<li><a href="//instagram.com/magonye" target="_blank" title="Instagram" class="fa fa-instagram"></a></li>
+
 </ul>
 
 </center>

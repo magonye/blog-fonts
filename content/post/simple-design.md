@@ -1,17 +1,14 @@
 +++
 title = "Simple Design"
-featured = ""
+featured = "simple-design-small.jpg"
 categories = ["design"]
 featuredalt = ""
 date = "2018-03-21T08:37:49+01:00"
 linktitle = ""
 description = "Guidance for a better design"
 author = ""
-featuredpath = ""
-images = ["https://magonye.github.io/img/simple-design-small.jpg"]
+featuredpath = "https://magonye.github.io/img/"
 +++
-<a href="https://pixabay.com/en/users/FelixMittermeier-4397258/" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from FelixMittermeier"><img src="https://magonye.github.io/img/simple-design.jpg" /></a>
-<br><br>
 Several months ago, I wrote about some known design principles: SOLID, YAGNI, DRY, ..... (you can read the full post <a href="../../post/design-principles/" target="_blank">here</a>). I was looking to understand and follow these principles for a goal: to write better code. And when I talk about "better" code, I mean readable and maintainable code. Code that every developer in a company should be able to maintain in a future. No matter if I'm still in the company or not. 
 
 I have to admit that some of the principles that I wrote about were tough to understand to me. And they were tougher to apply on my daily basis work. In fact, sometimes, when applying some of the SOLID principles in our code, it can look more unreadable and unmaintainable than before. What the hell!!! What was happening here?

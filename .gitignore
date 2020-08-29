@@ -1,2 +1,4 @@
-/public/
+/public
 /themes/
+.DS_Store
+./DS_Store

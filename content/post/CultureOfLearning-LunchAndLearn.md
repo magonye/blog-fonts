@@ -6,15 +6,9 @@ linktitle = ""
 description = "Learning and sharing at lunch time with the team"
 date = "2017-09-19T08:29:56+02:00"
 title = "Culture Of Learning: Lunch and Learn"
-featuredpath = ""
-featured = ""
-images = ["https://magonye.github.io/img/collunchandlearn.png"]
+featuredpath = "https://magonye.github.io/img/"
+featured = "collunchandlearn.png"
 +++
-
-[logo]: https://magonye.github.io/img/collunchandlearn.png  "COL: Lunch and Learn"
-
-![COL: Lunch and Learn][logo]
-
 During this year we are experiencing a very huge transformation as a team. We are living an interesting journey to become a more mature team, an autonomous team inside the company. And this transformation includes a lot of practices and activities. With this series of posts, that I'll call **Culture of Learning**, I will try to explain in detail each of these activities, how we started them, how we do them and what they give us.
 
 So, the first post of this series is about our Lunch and Learn sessions.

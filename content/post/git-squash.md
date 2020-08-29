@@ -1,21 +1,14 @@
 +++
 title = "Git: how to squash commits already pushed"
-featured = ""
+featured = "git-squash-photo.jpg"
 description = "A few days ago I was working on feature in a project, and after a lot of commits and pushes, I wanted to show to my colleagues my changes in a single commit."
 categories = ["git","tips"]
 author = ""
 date = "2017-08-08T08:30:46+02:00"
-featuredpath = ""
+featuredpath = "https://magonye.github.io/img/"
 linktitle = ""
 featuredalt = ""
-images = ["https://magonye.github.io/img/git-squash-photo.jpg"]
-
 +++
-
-[logo]: https://magonye.github.io/img/git-squash-photo.jpg "Git Squash Main photo"
-
-![Git Squash Main photo][logo]
-
 A few days ago I was working on feature in a project, and after a lot of commits and pushes, I wanted to show to my colleagues my changes.... but I wanted to show them in a single commit. 
 
 How could I join my 10 commits in a single one?
